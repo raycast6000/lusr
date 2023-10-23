@@ -7,11 +7,11 @@ making your own automation scripts, posibilities are endless.
 - It's memory safe! (as it was written in Rust)
 - Minimal resource consumption.
 # Running scripts
-It's very simple to run a script, just run type `lusr` and right next to it your script name (with its extension), just as you would do it with NodeJS. Here's an example: \
+It's very simple to run a script, just run type `lusr` and right next to it your script name (with its extension), just as you would do it with NodeJS. Here's an example:
 ```bash
 lusr src/main.lua
 ```
-** Output **
+**Output**
 ```
 Hello World
 ```
