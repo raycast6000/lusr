@@ -16,6 +16,6 @@ lusr src/main.lua
 Hello World
 ```
 # API
-Lusr comes with built-in API to make your life easier. Here's a list:
+Lusr comes with a built-in API to make your life easier. Here's a list:
 - json | **DOCUMENTATION IS PENDING**
 - thread | **DOCUMENTATION IS PENDING**
