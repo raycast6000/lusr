@@ -1,5 +1,5 @@
 # Lusr (Lua Server Runtime)
-The minimalistic Lua runtime, that allows you to do anything you want. From hosting a server to
+The minimalistic Lua runtime that allows you to do anything you want. From hosting a server to
 making your own automation scripts, posibilities are endless.
 # Features
 - High performance (because Lua is the fastest scripting language)
